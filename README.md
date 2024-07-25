@@ -3,7 +3,7 @@
 
 </div>
 <h1 align="center">Hi there, I'm Amrit 👋</h1>
-<h3 align="center">A passionate cloud developer with DevOps experience</h3>
+<h3 align="center">A passionate Cloud Developer with DevOps experience</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit27k&label=Profile%20views&color=0e75b6&style=flat" alt="amrit27k" /> </p>
 
