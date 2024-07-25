@@ -9,7 +9,7 @@
 
 - 📚 Currently pursuing my **Master's in Cloud Computing from Newcastle University at Newcastle Upon Tyne, UK**
 
-- 🌱 I’m currently learning **Go,AWS,GCP,Dev/MLOps**
+- 🌱 I’m currently learning **Go/Python,AWS,GCP,Kubernetes,Dev/MLOps**
 
 - 👯 I’m looking to collaborate on **Cloud, Serverless, DevOps or ML projects**
 
