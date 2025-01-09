@@ -7,17 +7,17 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit27k&label=Profile%20views&color=0e75b6&style=flat" alt="amrit27k" /> </p>
 
-- 📚 Currently pursuing my **Master's in Cloud Computing from Newcastle University at Newcastle Upon Tyne, UK**
+- 📚 Completed my **Master's in Cloud Computing from Newcastle University at Newcastle Upon Tyne, UK**
 
-- 🌱 I’m currently learning **Go/Python,AWS,GCP,Kubernetes,Dev/MLOps**
+- 🌱 I’m currently learning **Go/Python,AWS,GCP,Kubernetes,MLOps**
 
 - 👯 I’m looking to collaborate on **Cloud, Serverless, DevOps or ML projects**
 
-- 🔭 I’m currently working on **Adaptive Multi-Model Serving using KServe: Optimization for Efficient MLOps**
+- 🔭 I’m currently working on **Adaptive Multi-Model Serving in Nvidia Jetson Edge Devices**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amritkmr4272)
 
-- 💬 Ask me about **Python, Serverless, AWS, Cloud**
+- 💬 Ask me about **Python, Serverless, AWS, Cloud, MLOps**
 
 - 📫 How to reach me [Gmail](amritukmr2023@gmail.com), [LinkedIn](https://linkedin.com/in/amritkmr72), [Discord](https://discord.gg/enigma_whitman)
 
