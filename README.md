@@ -3,7 +3,7 @@
 
 </div>
 <h1 align="center">Hi there, I'm Amrit 👋</h1>
-<h3 align="center">A passionate Cloud Developer with DevOps experience</h3>
+<h3 align="center">A passionate Developer with ML engineering and MLOps experience</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit27k&label=Profile%20views&color=0e75b6&style=flat" alt="amrit27k" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Go/Python,AWS,GCP,Kubernetes,MLOps**
 
-- 👯 I’m looking to collaborate on **Cloud, Serverless, DevOps or ML projects**
+- 👯 I’m looking to collaborate on **Cloud, Serverless, or MLOps projects**
 
-- 🔭 I’m currently working on **Adaptive Multi-Model Serving in Nvidia Jetson Edge Devices**
+- 🔭 I’m currently working on **Kubeflow Kale project** and research projects in National Edge AI Hub, Newcastle.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amritkmr4272)
 
